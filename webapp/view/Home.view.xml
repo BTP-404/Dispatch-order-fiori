@@ -19,7 +19,7 @@
                 alignItems="Center"
                 class="headerVBox"
             >
-            <core:Icon src=""></core:Icon>
+                <core:Icon src="" />
                 <Title
                     id="_IDGenTitle"
                     text="DISPATCH ORDER CONFIRMATION"
@@ -31,40 +31,37 @@
             id="_IDGenVBox1"
             class="sapUiMediumMargin"
         >
-            <HBox id="_IDGenHBox">
-                <!-- Barcode scanner button and text on the same line -->
-                <VBox id="_IDGenVBox2">
-                    <HBox id="_IDGenHBox1">
-                        <ndc:BarcodeScannerButton
-                            id="sampleBarcodeScannerButton"
-                            scanSuccess="onScanSuccess"
-                            scanFail="onScanError"
-                            inputLiveUpdate="onScanLiveupdate"
-                            dialogTitle="Barcode Scanner Button Sample"
+            <!-- Barcode scanner button and text on the same line -->
+            <VBox id="_IDGenVBox2">
+                <HBox id="_IDGenHBox1">
+                    <VBox width="85%">
+                    <ndc:BarcodeScannerButton
+                        id="sampleBarcodeScannerButton"
+                        scanSuccess="onScanSuccess" 
+                        scanFail="onScanError"
+                        inputLiveUpdate="onScanLiveupdate"
+                    />
+                    </VBox>
+                    <VBox
+                        id="_IDGenVBox3"
+                        justifyContent="End"
+                        alignItems="End"
+                        class="sapUiSmallMarginBegin"
+                    >
+                        <Input
+                            id="_IDGenInput"
+                            placeholder="Bill no..."
                         />
-                        <Text
-                            id="sampleBarcodeScannerResult"
-                            text="Scan"
-                            class="sapUiTinyMargin"
-                        />
-                    </HBox>
-                </VBox>
-            </HBox>
-
-            <!-- Move Input control to the bottom -->
-            <VBox
-                id="_IDGenVBox3"
-                justifyContent="End"
-                alignItems="End"
-                class="sapUiSmallMarginBegin"
-            >
-                <Input
-                    id="_IDGenInput"
-                    placeholder="bill no..."
-                />
+                    </VBox>
+                </HBox>
             </VBox>
         </VBox>
-        <HBox justifyContent="Center" class="bgColour"><Title text="Product List"></Title></HBox>
+        <HBox
+            justifyContent="Center"
+            class="bgColour"
+        >
+            <Title text="Product List" />
+        </HBox>
 
         <layout:HorizontalLayout
             allowWrapping="true"
@@ -83,14 +80,16 @@
                         unit=""
                         footer=""
                     >
-                        <VBox class="sapUiSmallMargin" justifyContent="Center">
+                        <VBox
+                            class="sapUiSmallMargin"
+                            justifyContent="Center"
+                        >
                             <layoutData>
                                 <FlexItemData
                                     growFactor="1"
                                     shrinkFactor="0"
                                 />
                             </layoutData>
-                           
                         </VBox>
                     </TileContent>
                 </tileContent>

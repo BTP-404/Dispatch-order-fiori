@@ -6,10 +6,7 @@
 }
 .tileColour{
     background-color:rgb(227, 224, 224);
-    justify-content: center;
 }
 .layoutcls{
-    margin-left: 5rem;
-    margin-right: 5rem;
-
+    justify-self: auto;
 }

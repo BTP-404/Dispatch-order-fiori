@@ -10,23 +10,46 @@
           "quantity": 10,
           "unit": "boxes",
           "cartons": [
-            {"carton_number": "CARTON001"},
-            {"carton_number": "CARTON002"},
-            {"carton_number": "CARTON003"},
-            {"carton_number": "CARTON004"},
-            {"carton_number": "CARTON005"},
-            {"carton_number": "CARTON006"},
-            {"carton_number": "CARTON007"},
-            {"carton_number": "CARTON008"},
-            {"carton_number": "CARTON009"},
-            {"carton_number": "CARTON010"}
+            {
+              "carton_number": "CARTON001"
+            },
+            {
+              "carton_number": "CARTON002"
+            },
+            {
+              "carton_number": "CARTON003"
+            },
+            {
+              "carton_number": "CARTON004"
+            },
+            {
+              "carton_number": "CARTON005"
+            },
+            {
+              "carton_number": "CARTON006"
+            },
+            {
+              "carton_number": "CARTON007"
+            },
+            {
+              "carton_number": "CARTON008"
+            },
+            {
+              "carton_number": "CARTON009"
+            },
+            {
+              "carton_number": "CARTON010"
+            }
           ]
         },
         "grn_number": "GRN0001",
         "transfer_order_number": "TO0001",
         "status": "moved_to_rackhouse",
         "rack_number": "RACK001",
-        "bin_numbers": ["BIN001", "BIN002"]
+        "bin_numbers": [
+          "BIN001",
+          "BIN002"
+        ]
       },
       {
         "pallet_id": "PALLET002",
@@ -37,23 +60,46 @@
           "quantity": 10,
           "unit": "boxes",
           "cartons": [
-            {"carton_number": "CARTON011"},
-            {"carton_number": "CARTON012"},
-            {"carton_number": "CARTON013"},
-            {"carton_number": "CARTON014"},
-            {"carton_number": "CARTON015"},
-            {"carton_number": "CARTON016"},
-            {"carton_number": "CARTON017"},
-            {"carton_number": "CARTON018"},
-            {"carton_number": "CARTON019"},
-            {"carton_number": "CARTON020"}
+            {
+              "carton_number": "CARTON011"
+            },
+            {
+              "carton_number": "CARTON012"
+            },
+            {
+              "carton_number": "CARTON013"
+            },
+            {
+              "carton_number": "CARTON014"
+            },
+            {
+              "carton_number": "CARTON015"
+            },
+            {
+              "carton_number": "CARTON016"
+            },
+            {
+              "carton_number": "CARTON017"
+            },
+            {
+              "carton_number": "CARTON018"
+            },
+            {
+              "carton_number": "CARTON019"
+            },
+            {
+              "carton_number": "CARTON020"
+            }
           ]
         },
         "grn_number": "GRN0002",
         "transfer_order_number": "TO0002",
         "status": "moved_to_rackhouse",
         "rack_number": "RACK002",
-        "bin_numbers": ["BIN003", "BIN004"]
+        "bin_numbers": [
+          "BIN003",
+          "BIN004"
+        ]
       },
       {
         "pallet_id": "PALLET003",
@@ -64,23 +110,46 @@
           "quantity": 10,
           "unit": "boxes",
           "cartons": [
-            {"carton_number": "CARTON021"},
-            {"carton_number": "CARTON022"},
-            {"carton_number": "CARTON023"},
-            {"carton_number": "CARTON024"},
-            {"carton_number": "CARTON025"},
-            {"carton_number": "CARTON026"},
-            {"carton_number": "CARTON027"},
-            {"carton_number": "CARTON028"},
-            {"carton_number": "CARTON029"},
-            {"carton_number": "CARTON030"}
+            {
+              "carton_number": "CARTON021"
+            },
+            {
+              "carton_number": "CARTON022"
+            },
+            {
+              "carton_number": "CARTON023"
+            },
+            {
+              "carton_number": "CARTON024"
+            },
+            {
+              "carton_number": "CARTON025"
+            },
+            {
+              "carton_number": "CARTON026"
+            },
+            {
+              "carton_number": "CARTON027"
+            },
+            {
+              "carton_number": "CARTON028"
+            },
+            {
+              "carton_number": "CARTON029"
+            },
+            {
+              "carton_number": "CARTON030"
+            }
           ]
         },
         "grn_number": "GRN0003",
         "transfer_order_number": "TO0003",
         "status": "moved_to_rackhouse",
         "rack_number": "RACK003",
-        "bin_numbers": ["BIN005", "BIN006"]
+        "bin_numbers": [
+          "BIN005",
+          "BIN006"
+        ]
       },
       {
         "pallet_id": "PALLET004",
@@ -91,23 +160,46 @@
           "quantity": 10,
           "unit": "boxes",
           "cartons": [
-            {"carton_number": "CARTON031"},
-            {"carton_number": "CARTON032"},
-            {"carton_number": "CARTON033"},
-            {"carton_number": "CARTON034"},
-            {"carton_number": "CARTON035"},
-            {"carton_number": "CARTON036"},
-            {"carton_number": "CARTON037"},
-            {"carton_number": "CARTON038"},
-            {"carton_number": "CARTON039"},
-            {"carton_number": "CARTON040"}
+            {
+              "carton_number": "CARTON031"
+            },
+            {
+              "carton_number": "CARTON032"
+            },
+            {
+              "carton_number": "CARTON033"
+            },
+            {
+              "carton_number": "CARTON034"
+            },
+            {
+              "carton_number": "CARTON035"
+            },
+            {
+              "carton_number": "CARTON036"
+            },
+            {
+              "carton_number": "CARTON037"
+            },
+            {
+              "carton_number": "CARTON038"
+            },
+            {
+              "carton_number": "CARTON039"
+            },
+            {
+              "carton_number": "CARTON040"
+            }
           ]
         },
         "grn_number": "GRN0004",
         "transfer_order_number": "TO0004",
         "status": "moved_to_rackhouse",
         "rack_number": "RACK004",
-        "bin_numbers": ["BIN007", "BIN008"]
+        "bin_numbers": [
+          "BIN007",
+          "BIN008"
+        ]
       },
       {
         "pallet_id": "PALLET005",
@@ -118,23 +210,46 @@
           "quantity": 10,
           "unit": "boxes",
           "cartons": [
-            {"carton_number": "CARTON041"},
-            {"carton_number": "CARTON042"},
-            {"carton_number": "CARTON043"},
-            {"carton_number": "CARTON044"},
-            {"carton_number": "CARTON045"},
-            {"carton_number": "CARTON046"},
-            {"carton_number": "CARTON047"},
-            {"carton_number": "CARTON048"},
-            {"carton_number": "CARTON049"},
-            {"carton_number": "CARTON050"}
+            {
+              "carton_number": "CARTON041"
+            },
+            {
+              "carton_number": "CARTON042"
+            },
+            {
+              "carton_number": "CARTON043"
+            },
+            {
+              "carton_number": "CARTON044"
+            },
+            {
+              "carton_number": "CARTON045"
+            },
+            {
+              "carton_number": "CARTON046"
+            },
+            {
+              "carton_number": "CARTON047"
+            },
+            {
+              "carton_number": "CARTON048"
+            },
+            {
+              "carton_number": "CARTON049"
+            },
+            {
+              "carton_number": "CARTON050"
+            }
           ]
         },
         "grn_number": "GRN0005",
         "transfer_order_number": "TO0005",
         "status": "moved_to_rackhouse",
         "rack_number": "RACK005",
-        "bin_numbers": ["BIN009", "BIN010"]
+        "bin_numbers": [
+          "BIN009",
+          "BIN010"
+        ]
       },
       {
         "pallet_id": "PALLET006",
@@ -145,23 +260,46 @@
           "quantity": 10,
           "unit": "boxes",
           "cartons": [
-            {"carton_number": "CARTON051"},
-            {"carton_number": "CARTON052"},
-            {"carton_number": "CARTON053"},
-            {"carton_number": "CARTON054"},
-            {"carton_number": "CARTON055"},
-            {"carton_number": "CARTON056"},
-            {"carton_number": "CARTON057"},
-            {"carton_number": "CARTON058"},
-            {"carton_number": "CARTON059"},
-            {"carton_number": "CARTON060"}
+            {
+              "carton_number": "CARTON051"
+            },
+            {
+              "carton_number": "CARTON052"
+            },
+            {
+              "carton_number": "CARTON053"
+            },
+            {
+              "carton_number": "CARTON054"
+            },
+            {
+              "carton_number": "CARTON055"
+            },
+            {
+              "carton_number": "CARTON056"
+            },
+            {
+              "carton_number": "CARTON057"
+            },
+            {
+              "carton_number": "CARTON058"
+            },
+            {
+              "carton_number": "CARTON059"
+            },
+            {
+              "carton_number": "CARTON060"
+            }
           ]
         },
         "grn_number": "GRN0006",
         "transfer_order_number": "TO0006",
         "status": "moved_to_rackhouse",
         "rack_number": "RACK006",
-        "bin_numbers": ["BIN011", "BIN012"]
+        "bin_numbers": [
+          "BIN011",
+          "BIN012"
+        ]
       },
       {
         "pallet_id": "PALLET007",
@@ -172,23 +310,96 @@
           "quantity": 10,
           "unit": "boxes",
           "cartons": [
-            {"carton_number": "CARTON061"},
-            {"carton_number": "CARTON062"},
-            {"carton_number": "CARTON063"},
-            {"carton_number": "CARTON064"},
-            {"carton_number": "CARTON065"},
-            {"carton_number": "CARTON066"},
-            {"carton_number": "CARTON067"},
-            {"carton_number": "CARTON068"},
-            {"carton_number": "CARTON069"},
-            {"carton_number": "CARTON070"}
+            {
+              "carton_number": "CARTON061"
+            },
+            {
+              "carton_number": "CARTON062"
+            },
+            {
+              "carton_number": "CARTON063"
+            },
+            {
+              "carton_number": "CARTON064"
+            },
+            {
+              "carton_number": "CARTON065"
+            },
+            {
+              "carton_number": "CARTON066"
+            },
+            {
+              "carton_number": "CARTON067"
+            },
+            {
+              "carton_number": "CARTON068"
+            },
+            {
+              "carton_number": "CARTON069"
+            },
+            {
+              "carton_number": "CARTON070"
+            }
           ]
         },
         "grn_number": "GRN0007",
         "transfer_order_number": "TO0007",
         "status": "moved_to_rackhouse",
         "rack_number": "RACK007",
-        "bin_numbers": ["BIN013", "BIN014"]
+        "bin_numbers": [
+          "BIN013",
+          "BIN014"
+        ]
+      },
+      {
+        "pallet_id": "PALLET008",
+        "category": "Liquor",
+        "product": {
+          "product_id": "P008",
+          "product_name": "xyz",
+          "quantity": 10,
+          "unit": "boxes",
+          "cartons": [
+            {
+              "carton_number": "CARTON0071"
+            },
+            {
+              "carton_number": "CARTON0072"
+            },
+            {
+              "carton_number": "CARTON0073"
+            },
+            {
+              "carton_number": "CARTON0074"
+            },
+            {
+              "carton_number": "CARTON0075"
+            },
+            {
+              "carton_number": "CARTON0076"
+            },
+            {
+              "carton_number": "CARTON0077"
+            },
+            {
+              "carton_number": "CARTON0078"
+            },
+            {
+              "carton_number": "CARTON0079"
+            },
+            {
+              "carton_number": "CARTON080"
+            }
+          ]
+        },
+        "grn_number": "GRN0008",
+        "transfer_order_number": "TO0008",
+        "status": "moved_to_rackhouse",
+        "rack_number": "RACK008",
+        "bin_numbers": [
+          "BIN001",
+          "BIN002"
+        ]
       }
     ],
     "rackhouse_details": [
@@ -225,6 +436,11 @@
       {
         "transfer_order_number": "TO0007",
         "rack_number": "RACK007",
+        "date_moved": "2024-12-12"
+      },
+      {
+        "transfer_order_number": "TO0008",
+        "rack_number": "RACK008",
         "date_moved": "2024-12-12"
       }
     ]
